@@ -20,7 +20,7 @@
 
 ## 🛠️ 使用方式
 
-1. 打开页面：<https://你的用户名.github.io/bilibili-ios-coin-calculator>
+1. 打开页面：<https://b.hicatalpa.cn/>
 2. 在输入框输入你想充值的金额（单位：B币对应人民币）
 3. 点击 **“计算最省力方案”** 按钮
 4. 查看下方生成的“最优点击组合”，照着点就行啦！
@@ -67,8 +67,7 @@
 - 修复bug
 - 改进UI/UX
 - 优化算法效率
-- 添加新功能（比如支持Android？）
-
+- 
 ---
 
 ## 📄 许可证
@@ -76,19 +75,9 @@
 MIT License © 2023  
 开心使用，快乐充电！如果你觉得有用，点个 ⭐ 支持一下吧～
 
----
-
-## 🔗 相关链接
-
-- [Bilibili 官网](https://www.bilibili.com)
-- [iOS App Store 充值页面](https://pay.bilibili.com)
 
 ---
 
 > 本工具为第三方开源项目，与B站官方无关。  
 > 数据仅在本地计算，不会上传任何信息，请放心使用 ❤️
 ```
-
----
-
-如果还需要 **LICENSE 文件**、**GitHub Pages 部署指南** 或 **Issue/PR 模板**，我也可以帮你一起生成！
